@@ -16,7 +16,7 @@ Projeto com o objetivo de gerar um repositório para compartilhar o Desafio de P
 
 Todos os prompts utilizados seguem abaixo. 
 
-<a href="https://acrobat.adobe.com/id/urn:aaid:sc:us:2357e731-04bf-4870-9bd2-354c5463fcb7" title="View PDF now"> 📶Clique aqui para ver</a>
+<a href="Planilha Inteligente e IA.xlsx" title="View PDF now"> 📶Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
