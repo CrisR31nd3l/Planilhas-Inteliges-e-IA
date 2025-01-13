@@ -1,6 +1,3 @@
-# Planilhas-Inteliges-e-IA
-Desafio de Projeto: Como Organizar sua Vida Financeira com Planilhas Inteligentes e IA
-
 <p align="center">
     <img width="100" src="Banner.jpg">
 </p>
