@@ -13,7 +13,7 @@ Projeto com o objetivo de gerar um repositório para compartilhar o Desafio de P
 
 Todos os prompts utilizados seguem abaixo. 
 
-<a href="Planilha Inteligente e IA.xlsx" title="View PDF now"> 📶Clique aqui para ver</a>
+<a href="Planilha Inteligente e IA.xlsx" title="View Sheet now"> 📶Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
